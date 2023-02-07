@@ -1,10 +1,7 @@
 this is one line
 god is a girl
 mua mua mua
-<<<<<<< HEAD
 mua mua mua changed!!!!
 mua mua mua
-=======
-mua mua mua
-mua mua mua hot-fix test
->>>>>>> hot-fix
+
+
